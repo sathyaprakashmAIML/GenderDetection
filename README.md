@@ -1,1 +1,1 @@
-# GenderDetection
+# Image classification
